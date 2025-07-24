@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Colorful Banner with Gradient -->
-  <img src="https://raw.githubusercontent.com/MUNNA2512/MUNNA2512/main/assets/github-header-image.png" width="100%" alt="Munna Kumar - Developer, Programmer, Problem Solver" />
+  <img src="https://avatars.githubusercontent.com/u/185688372?v=4" width="100%" alt="Munna Kumar - Developer, Programmer, Problem Solver" />
   
   <!-- Rainbow Typing Text -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Munna+Kumar;C+Programming+Specialist;Full+Stack+Developer;Algorithm+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
