@@ -1,99 +1,130 @@
 <div align="center">
-  <!-- Rounded Avatar -->
-  <img src="https://avatars.githubusercontent.com/u/185688372?v=4" width="150" style="border-radius: 50%;" alt="Munna Kumar - Developer" />
 
-  <!-- Professional Quote -->
-  <h3>
-    <em style="color: #FF6B6B;">"Crafting elegant solutions to complex problems through clean, efficient code."</em>
-  </h3>
+# 👋 Hi, I'm Munna Kumar
 
-  <!-- Social Links -->
-  <div>
-    <a href="https://github.com/MUNNA2512"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="mailto:M6997500@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://github.com/MUNNA2512"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
-  </div>
+### Full Stack Developer | Backend Developer
 
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=MUNNA2512&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+Building practical web applications, backend systems, and business-focused software.
+
+<p>
+  <a href="https://github.com/MUNNA2512">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/munna-codes/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:M6997500@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=MUNNA2512&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS"/>
+
 </div>
 
 ---
 
-<!-- About Me Section -->
-<div align="center">
-  <h1 style="color: #FF6B6B;">👨‍💻 About Me</h1>
-</div>
+## 👨‍💻 About Me
 
-```python
-class MunnaKumar:
-    def __init__(self):
-        self.name = "Munna Kumar"
-        self.role = "Full Stack Developer"
-        self.education = "Diploma in Computer Science"
-        self.location = "India"
-        self.languages_spoken = ["Hindi", "English"]
-        self.skills = {
-            "Expert": ["C", "Python"],
-            "Intermediate": ["JavaScript", "HTML", "CSS"],
-            "Learning": ["React", "Node.js", "MongoDB"]
-        }
-        self.current_focus = "Scalable apps & improving DSA"
+I'm a **Full Stack Developer** focused on building real-world applications with modern JavaScript technologies.
 
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's connect and collaborate.")
-```
+- 💻 Currently building full-stack and backend applications
+- 🚀 Experienced with **React, Next.js, Node.js, Express.js and PostgreSQL**
+- 🗄️ Comfortable with **MongoDB, PostgreSQL and SQLite**
+- 🏢 Have worked on production software used by real businesses
+- 🧠 Improving **DSA, backend development and system design**
+- 🎓 B.Tech CSE student at **Parul University**
+- 🤝 Open to internships, freelance projects and collaboration
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### Languages & Frameworks
-- **C/C++** - ⭐⭐⭐⭐⭐
-- **Python** - ⭐⭐⭐⭐
-- **JavaScript, HTML, CSS** - ⭐⭐⭐
-- **React.js, Node.js, MongoDB** - ⭐⭐
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
 
 ### Tools & Technologies
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
 </p>
 
 ---
 
+## 🚀 Featured Projects
+
+### 🏫 School Management System — School ERP
+
+**Next.js · Electron.js · SQLite**
+
+Production ERP developed for a school to manage:
+
+- Student and ID card management
+- Examination scheduling and results
+- Fee management
+- Automated SMS reminders
+- Centralized school workflows
+
+---
+
+### 💎 Jewellery Billing & Management System
+
+**Next.js · PostgreSQL**
+
+Production billing system used by **5 jewellery shops**.
+
+- Weight-based jewellery billing
+- Customer dues and payments
+- Old-jewellery exchange
+- Transaction history
+- Dynamic PDF receipt generation
+- MongoDB → PostgreSQL migration
+
+---
+
 ## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MUNNA2512&show_icons=true&theme=radical&border_radius=10&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUNNA2512&layout=compact&theme=radical&border_radius=10&hide_border=true" height="170" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MUNNA2512&show_icons=true&theme=radical&hide_border=true&border_radius=10"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUNNA2512&layout=compact&theme=radical&hide_border=true&border_radius=10"/>
+
 </div>
 
 ---
 
-## 🔝 Featured Projects
-<div align="center">
-  <a href="https://github.com/MUNNA2512/c_program_begginer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MUNNA2512&repo=c_program_begginer&theme=radical&border_radius=10&hide_border=true" />
-  </a>
-  <a href="https://github.com/MUNNA2512/task-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MUNNA2512&repo=task-manager&theme=radical&border_radius=10&hide_border=true" />
-  </a>
-</div>
+## 📌 Currently
 
----
-
-## 📫 Let's Connect
-<div align="center">
-  <a href="mailto:M6997500@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/MUNNA2512"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div>
+```text
+Backend Development  →  Node.js + Express + PostgreSQL
+Frontend              →  React + Next.js
+Problem Solving      →  Java + DSA
+System Design        →  Architecture + Database Design
