@@ -120,7 +120,19 @@ Production billing system used by **5 jewellery shops**.
 </div>
 
 ---
+## 🧠 LeetCode
 
+<div align="center">
+
+<a href="https://leetcode.com/u/munna_codes/">
+  <img
+    src="https://your-leetcode-stats-deployment.vercel.app/api/card"
+    alt="LeetCode Stats"
+    width="850"
+  />
+</a>
+
+</div>
 ## 📌 Currently
 
 ```text
